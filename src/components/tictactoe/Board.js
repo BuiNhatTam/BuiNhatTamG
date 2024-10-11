@@ -1,6 +1,6 @@
 import React from 'react';
 import Cell from './Cell';
-import { calculateWinner } from '../../helpers';
+//import { calculateWinner } from '../../helpers';
 
 const Board = ({ cells, onClick }) => {
     // const cells =[null,null,null,"X","X","X",null,null,null];
